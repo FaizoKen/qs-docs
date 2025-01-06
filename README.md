@@ -1,6 +1,6 @@
 ---
 icon: house
-cover: .gitbook/assets/bg.webp
+cover: .gitbook/assets/27263 (1).webp
 coverY: 0
 layout:
   cover:

@@ -1,10 +1,12 @@
+---
+description: >-
+  Welcome to QuickSupport. By using our services, you agree to the following
+  Terms of Service. Please read them carefully.
+---
+
 # Terms of Service
 
-Effective Date: January 4, 2025
-
-Welcome to QuickSupport. By using our services, you agree to the following Terms of Service. Please read them carefully.
-
-### 1. Acceptance of Terms
+## 1. Acceptance of Terms
 
 By accessing or using QuickSupport, you agree to be bound by these Terms of Service and our Privacy Policy. If you do not agree with any part of these terms, you may not use our services.
 

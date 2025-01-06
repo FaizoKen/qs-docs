@@ -1,10 +1,13 @@
+---
+description: >-
+  Welcome to QuickSupport. We value your privacy and are committed to protecting
+  your personal information. This Privacy Policy outlines how we collect, use,
+  and safeguar
+---
+
 # Privacy Policy
 
-Effective Date: January 4, 2025
-
-Welcome to QuickSupport. We value your privacy and are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you use our services.
-
-### 1. Information We Collect
+## 1. Information We Collect
 
 When you use QuickSupport, we may collect the following information:
 

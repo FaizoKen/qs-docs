@@ -15,7 +15,7 @@ When you use QuickSupport, we may collect the following information:
 * **Server Information:** Including server IDs and channel IDs where the bot is active.
 * **Message Content:** Messages sent to the bot for processing, including attachments.
 
-### 2. How We Use Your Information
+## 2. How We Use Your Information
 
 The information we collect is used to:
 
@@ -24,11 +24,11 @@ The information we collect is used to:
 * Improve our services based on user feedback.
 * Ensure the security and integrity of our services.
 
-### 3. Data Security
+## 3. Data Security
 
 We implement appropriate security measures to protect your data from unauthorized access, alteration, disclosure, or destruction. However, please be aware that no method of transmission over the internet or electronic storage is completely secure.
 
-### 4. Data Sharing and Disclosure
+## 4. Data Sharing and Disclosure
 
 We do not share your personal information with third parties except in the following circumstances:
 
@@ -37,7 +37,7 @@ We do not share your personal information with third parties except in the follo
 * To protect and defend our rights and property.
 * To prevent or investigate possible wrongdoing in connection with the service.
 
-### 5. Data Retention
+## 5. Data Retention
 
 We retain your data only for as long as necessary to provide our services and fulfill the purposes outlined in this Privacy Policy. Once data is no longer needed, we will delete or anonymize it.
 
@@ -45,10 +45,10 @@ We retain your data only for as long as necessary to provide our services and fu
 
 Our services are not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected such data, we will take steps to delete it.
 
-### 7. Changes to This Privacy Policy
+## 7. Changes to This Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. Changes are effective immediately upon posting.
 
-### 8. Contact Us
+## 8. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at [mail@faizo.net](mailto:mail@faizo.net).

@@ -41,7 +41,7 @@ We do not share your personal information with third parties except in the follo
 
 We retain your data only for as long as necessary to provide our services and fulfill the purposes outlined in this Privacy Policy. Once data is no longer needed, we will delete or anonymize it.
 
-### 6. Children's Privacy
+## 6. Children's Privacy
 
 Our services are not intended for use by individuals under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have inadvertently collected such data, we will take steps to delete it.
 

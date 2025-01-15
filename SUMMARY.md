@@ -8,7 +8,7 @@
 ## Getting Started
 
 * [Invite Bot](getting-started/invite-bot.md)
-* [Panel Setup](getting-started/panel-setup.md)
+* [Panel Setup](getting-started/quick-setup.md)
 
 ## Features
 

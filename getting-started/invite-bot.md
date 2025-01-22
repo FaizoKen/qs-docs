@@ -6,9 +6,9 @@ icon: robot
 
 ## 1. Click Invite link
 
-Click this link [Add Bot](https://discord.com/oauth2/authorize?client_id=1280984633739186318) or you can find the bot by searching its name in the **App Directory**. The App Directory is available in your server settings, or you can access it directly by clicking [here](https://discord.com/application-directory).
+Click this link [Add Bot](https://discord.com/oauth2/authorize?client_id=1280984633739186318) or you can find the bot by searching its name in the **App Directory**. The App Directory is available in your server settings, or you can access it directly by clicking [here](https://discord.com/discovery/applications/1280984633739186318).
 
-<div align="left"><figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 ## **2. Select your server**
 

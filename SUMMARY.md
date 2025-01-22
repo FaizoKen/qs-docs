@@ -30,6 +30,6 @@
 ## Misc
 
 * [Official Website](https://quicksupport.faizo.net)
-* [Server Status](https://quicksupport.faizo.net/status)
+* [Server Status](https://status.quicksupport.faizo.net)
 * [Panel Template](https://quicksupport.faizo.net/template)
 * [Web Panel Builder](https://quicksupport.faizo.net/editor)

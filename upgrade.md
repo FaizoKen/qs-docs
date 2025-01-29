@@ -18,10 +18,6 @@ layout:
 
 # Upgrade
 
-## Promotion
-
-[Get 50% off your first month. ](https://www.patreon.com/join/9060914)Ends at 4:27 PM on Jan 22, 2025.
-
 ## Payment Method
 
 * Card
